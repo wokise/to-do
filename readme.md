@@ -4,4 +4,4 @@
 
 # Скриншоты
 
-![App Screenshot](https://raw.githubusercontent.com/wokise4540/to_do/master/docs/home.png)
+![App Screenshot](https://raw.githubusercontent.com/wokise4540/to_do/main/docs/home.png)
